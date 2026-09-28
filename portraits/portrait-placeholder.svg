@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 680" role="img" aria-labelledby="title desc">
+  <title id="title">Portrait artwork placeholder</title><desc id="desc">A decorative line drawing marking where a portrait image link can be added.</desc>
+  <rect width="560" height="680" fill="#e9e3d8"/>
+  <rect x="18" y="18" width="524" height="644" fill="none" stroke="#c9bfb2" stroke-width="1"/>
+  <circle cx="280" cy="278" r="187" fill="#e3dbcf"/>
+  <g fill="none" stroke="#a88f7d" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M149 550c14-61 53-96 99-112 7-18 7-29 4-46-28-22-44-61-44-105 0-77 32-129 77-129 48 0 81 52 81 129 0 44-16 83-44 105-3 17-3 28 4 46 46 16 85 51 99 112" stroke-width="2.4"/>
+    <path d="M207 278c-8-76 22-139 78-139 58 0 89 67 79 139-11-19-21-34-26-62-33 17-71 22-109 11-4 19-11 35-22 51Z" stroke-width="2.4"/>
+    <path d="M236 290c9-4 18-4 27 0m47 0c9-4 18-4 27 0m-73 68c13 8 30 8 43 0m-22-51-6 29 12 2" stroke-width="1.7"/>
+    <path d="M245 438c20 15 52 20 81 0" stroke-width="2"/>
+  </g>
+  <path d="M68 597h424" stroke="#c9bfb2" stroke-width="1"/>
+  <text x="280" y="622" text-anchor="middle" fill="#967b6a" font-family="Georgia,serif" font-size="18" font-style="italic">Your portrait goes here</text>
+</svg>
